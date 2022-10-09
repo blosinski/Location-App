@@ -1,6 +1,6 @@
 # Location-App
 
-I created a location app in swiftui where you can enter a location and it finds that location on a map. The app uses the MapKit framework to find and display the entered locations on a map. The user interface is designed using SwiftUI, and the app is compatible with iOS 13.0 or later.
+I created a location app in SwiftUI where you can enter a location and it finds that location on a map. The app uses the MapKit framework to find and display the entered locations on a map. The user interface is designed using SwiftUI, and the app is compatible with iOS 13.0 or later.
 
 
 
